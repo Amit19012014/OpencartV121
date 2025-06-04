@@ -1,2 +1,4 @@
-package pageObjects;public class AccountRegistrationPage {
+package pageObjects;
+
+public class AccountRegistrationPage {
 }
