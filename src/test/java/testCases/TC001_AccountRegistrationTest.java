@@ -1,38 +1,15 @@
 package testCases;
 
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
+
+import org.testng.Assert;
 import org.testng.annotations.Test;
 import pageObjects.AccountRegistrationPage;
-import pageObjects.BasePage;
 import pageObjects.homePage;
-
-import java.security.PublicKey;
-import java.time.Duration;
-
-public class TC001_AccountRegistrationTest {
-
-    public WebDriver driver;
+import testBase.BaseClass;
 
 
-    @BeforeClass
-    public void setup() {
-        driver = new ChromeDriver();
-        driver.manage().deleteAllCookies();
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+public class TC001_AccountRegistrationTest extends BaseClass {
 
-        driver.get("https://demo.opencart.com.gr/");
-        driver.manage().window().maximize();
-
-    }
-
-
-    @AfterClass
-    public void tearDown() {
-        driver.quit();
-    }
 
     @Test
     public void verify_account_registration() throws InterruptedException {
@@ -41,18 +18,23 @@ public class TC001_AccountRegistrationTest {
         hp.clickMyAccount();
         hp.clickRegister();
 
-        Thread.sleep(5000);
 
         AccountRegistrationPage regPage = new AccountRegistrationPage(driver);
-        regPage.setFirstName("Amit");
-        regPage.setLastName("Singh");
-        regPage.setEmail("Abc@gmail.com");
-        regPage.setTelephone("7539518524");
-        regPage.setPassword("xyz123456");
-        regPage.setConfirmPassword("xyz123456");
+        regPage.setFirstName(randomeString().toUpperCase());
+        regPage.setLastName(randomeString().toUpperCase());
+        regPage.setEmail(randomeString() + "@gmail.com");  //randomly generated Email Address
+        regPage.setTelephone(numberString());
+
+        String password = randomAlphaNumeric();
+
+        regPage.setPassword(password);
+        regPage.setConfirmPassword(password);
+
         regPage.setPrivacyPolicy();
         regPage.clickContinue();
 
-    }
+        String confmsg = regPage.getConfirmationMsg();
+        Assert.assertEquals(confmsg, "Your Account Has Been Created!");
 
+    }
 }
