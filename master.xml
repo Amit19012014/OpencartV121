@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test name="Test">
+        <parameter name="browser" value="firefox"></parameter>
+        <parameter name="os" value="Windows"></parameter>
+        <classes>
+            <class name="testCases.TC001_AccountRegistrationTest">
+                <methods>
+                    <include name="verify_account_registration"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

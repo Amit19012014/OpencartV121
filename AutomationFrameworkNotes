@@ -376,6 +376,75 @@ public String numberString() {
 }
 
 
+Day-50
+=========
+Hybrid Framework | Logs, Properties, Cross Browser
+========================================================================================================================
+
+2) Adding logs to test case (log4j2)
+===============================================
+2.1: Add log4j2.xml file under src/test/resourses.
+2.2: Update BaseClass.
+2.3: Add log statements to AccountRegistrationTest
+
+
+Logging - record all the events in the form of text. Log file is use to track the information. by that information necessary action can take up.
+
+Log Levels - All < Trace < Debug < Info < Warn < Error < Fatal < Off
+
+
+Appenders - where to generate logs (Console/File)
+Loggers  - what type of logs generate (All < Trace < Debug < Info < Warn < Error < Fatal < Off)
+
+
+import org.apache.logging.log4j.LogManager;  //Log4j
+import org.apache.logging.log4j.Logger;  //Log4j
+
+Types of logs
+---------------
+Application logs - internal logging in application we can not see that
+Automation logs -
+
+Steps for logging.
+------------------
+1) First we will create the log4j2.xml file in resource folder
+2) After that in Base class we will implement it
+  public Logger logger;
+
+
+    @BeforeClass
+    public void setup() {
+
+        logger = LogManager.getLogger(this.getClass());//Log4j
+
+        driver = new ChromeDriver();
+        driver.manage().deleteAllCookies();
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+
+        driver.get("https://tutorialsninja.com/demo/");
+        driver.manage().window().maximize();
+    }
+3)After that we will implement in test cases on which step we want log.
+Ex: logger.info("***** Starting TC001_AccountRegistrationTest  ****");
+
+
+3) Run Tests on Desired Browser/Cross Browser/Parallel
+=====================================================================
+3.1: Create testng.xml file to Run Test Cases and parameterize browser name and OS to BaseClass →setup() method.
+in base class we have added
+
+3.2: Update BaseClass →setup() method, launch browser based on conditions.
+3.3: Maintain separate xml to run tests multiple browsers parallelly.
+
+
+
+
+4) Read Common values from config.properties file.
+===========================================================
+
+4.1: Add config.properties file under src/test/resoures.
+4.2: Update BaseClass →setup() method, add script to load config.properties file.
+4.3: Replace hard coded values in Test Cases like url, username, password etc...
 
 
 
