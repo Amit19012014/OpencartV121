@@ -35,9 +35,12 @@ public class TC002_LoginTest extends BaseClass {
             boolean targetPage = map.isMyAccountPageExists();
 //        Assert.assertEquals(targetPage,true, "Login Failed");
             Assert.assertTrue(targetPage);
+
         } catch (Exception e) {
             Assert.fail();
         }
+
+
 
         logger.info("***********Finished TC002_LoginTest*************");
 
