@@ -4,47 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d1b570d-5ccf-4d4c-99a4-7e10503a799a" name="Changes" comment="05-June_2025">
-      <change afterPath="$PROJECT_DIR$/crossBrowserTesting.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/config.proprties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/Chrome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/Chrome.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/Edge.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/Edge.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/Firefox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/Firefox.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/Test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/Test1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/Test1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/Test2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/Test2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/Test3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/Test3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Suite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/jquery-3.6.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC001_AccountRegistrationTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+    <list default="true" id="2d1b570d-5ccf-4d4c-99a4-7e10503a799a" name="Changes" comment="07-June_2025">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Topic22_HybridAutomationFrameworkProjectPOMSession1/~$brid+Automation+Framework.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageObjects/myAccountPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/TC002_LoginTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AutomationFrameworkNotes" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationFrameworkNotes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/TC001_AccountRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/TC001_AccountRegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/homePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/homePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config.proprties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.proprties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,13 +199,22 @@
       <option name="project" value="LOCAL" />
       <updated>1749177922805</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="07-June_2025">
+      <option name="closed" value="true" />
+      <created>1749318369315</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749318369315</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="04-June_2025" />
     <MESSAGE value="05-June_2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="05-June_2025" />
+    <MESSAGE value="07-June_2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="07-June_2025" />
   </component>
 </project>

@@ -450,6 +450,19 @@ in base class we have added
 
 
 
+Day-51
+=========
+Hybrid Framework | Data Driven Tests | Apache POI
+========================================================================================================================
+username - qijojivy@mailinator.com
+password - 123456789
+
+
+5) Login Test Case
+5.1: Create and update page object classes. LoginPage, MyAccountPage – new classes HomePage – update by adding login link element
+5.2: Create LoginTest
+5.3: Add entry testng.xml
+
 
 
 
