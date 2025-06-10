@@ -5,23 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d1b570d-5ccf-4d4c-99a4-7e10503a799a" name="Changes" comment="08-June_2025">
-      <change afterPath="$PROJECT_DIR$/src/test/java/testCases/TC003_LoginDDT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/DataProviders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ExcelUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/MasterSuite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC003_LoginDDT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testData/Opencart_LoginData.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grouping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/automation-06-08-2025-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/automation-06-09-2025-1.log.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.10.22.44.12.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.10.22.45.02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.10.22.47.19.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.10.22.49.07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.10.22.50.31.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.10.22.53.07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/verify_login_20250610104739.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/verify_login_20250610105053.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/verify_login_20250610105334.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Topic22_HybridAutomationFrameworkProjectPOMSession1/~$brid+Automation+Framework.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ExtentReportManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Master Suite/Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Master Suite/Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Master Suite/testng-failed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AutomationFrameworkNotes" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationFrameworkNotes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crossBrowserTesting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crossBrowserTesting.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Topic22_HybridAutomationFrameworkProjectPOMSession1/~$brid+Automation+Framework.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/myAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageObjects/myAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/TC001_AccountRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/TC001_AccountRegistrationTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/testCases/TC002_LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/TC002_LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/TC003_LoginDDT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/TC003_LoginDDT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config.proprties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.proprties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/MasterSuite/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/MasterSuite/Test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/MasterSuite/Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/MasterSuite/Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/MasterSuite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/MasterSuite/testng-failed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC001_AccountRegistrationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC001_AccountRegistrationTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC002_LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC002_LoginTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
     </list>
@@ -70,7 +88,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/crossBrowserTesting.xml.executor": "Run",
+    "TestNG.C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/grouping.xml.executor": "Run",
     "TestNG.C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/master.xml.executor": "Run",
+    "TestNG.C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/test-output/testng-failed.xml.executor": "Run",
     "TestNG.TC001_AccountRegistrationTest.executor": "Run",
     "TestNG.TC003_LoginDDT.executor": "Run",
     "git-widget-placeholder": "master",
@@ -118,6 +138,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/grouping.xml" type="TestNG" nameIsGenerated="true">
+      <module name="OpencartV121" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/grouping.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/master.xml" type="TestNG" nameIsGenerated="true">
       <module name="OpencartV121" />
       <shortenClasspath name="NONE" />
@@ -132,6 +172,16 @@
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="USE_DEFAULT_REPORTERS" value="true" />
       <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/test-output/testng-failed.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OpencartV121" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/test-output/testng-failed.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -174,6 +224,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/test-output/testng-failed.xml" />
         <item itemvalue="TestNG.TC003_LoginDDT" />
         <item itemvalue="TestNG.TC001_AccountRegistrationTest" />
       </list>
@@ -244,8 +295,27 @@
       <option name="project" value="LOCAL" />
       <updated>1749391710678</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="08-June_2025">
+      <option name="closed" value="true" />
+      <created>1749405716373</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1749405716373</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

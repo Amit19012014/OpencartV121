@@ -474,6 +474,50 @@ password - 123456789
 
 
 
+Day-52
+=========
+Hybrid Framework | Grouping Tests, Extent Reports
+========================================================================================================================
+
+7) Grouping Tests.
+---------------------------------------
+7.1: Add all test cases into specific group ( sanity, regression , master etc.).
+7.2: Also add BaseClass methods setup() & teardown() to all groups.
+7.3: Create separate TestNG xml file(grouping.xml) to run groups and include groups which we
+want to execute.
+
+
+8) Add Extent Reports to Project
+--------------------------------------
+8.1: Create ExtentReportUtility utility class under utilities package.
+8.2: Add captureScreen() method in BaseClass
+8.3: Add ExtentReportUtility (Listener class) entry in testng.xml file.
+8.4: Make sure WebDriver is static in BaseClass, we refer same driver instance in ExtentReportUtility.
+
+
+To get the parameters from xml file -
+---------------------------------------
+String os = testContext.getCurrentXmlTest().getParameter("os");
+extent.setSystemInfo("Operating System", os);
+
+String browser = testContext.getCurrentXmlTest().getParameter("browser");
+extent.setSystemInfo("Browser", browser);
+
+getCurrentXmlTest() - this method will return the xml file
+
+To get the group information from xml file
+---------------------------------------------
+List<String> includedGroups = testContext.getCurrentXmlTest().getIncludedGroups();
+if(!includedGroups.isEmpty()) {
+extent.setSystemInfo("Groups", includedGroups.toString());
+}
+
+9) Run Failed Tests.
+-----------------------------------
+test-output→testng-failed.xml
+
+
+
 
 
 
