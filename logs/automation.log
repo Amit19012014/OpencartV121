@@ -95,3 +95,156 @@
 2025-06-10 22:57:57 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
 2025-06-10 22:58:03 INFO  TC002_LoginTest:19 - ***********Starting TC002_LoginTest*************
 2025-06-10 22:58:05 INFO  TC002_LoginTest:45 - ***********Finished TC002_LoginTest*************
+2025-06-11 23:27:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\master.xml
+
+2025-06-11 23:29:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\master.xml
+
+2025-06-11 23:31:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\master.xml
+
+2025-06-11 23:31:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\master.xml
+
+2025-06-11 23:33:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\master.xml
+
+2025-06-11 23:33:57 INFO  TC002_LoginTest:19 - ***********Starting TC002_LoginTest*************
+2025-06-11 23:34:54 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\master.xml
+
+2025-06-11 23:35:36 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\master.xml
+
+2025-06-11 23:36:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\master.xml
+
+2025-06-11 23:36:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\master.xml
+
+2025-06-11 23:36:57 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-11 23:36:57 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-06-11 23:36:58 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2025-06-11 23:36:58 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...
+2025-06-11 23:37:00 INFO  TC001_AccountRegistrationTest:45 - Validating expected message..
+2025-06-11 23:37:00 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2025-06-11 23:37:00 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-11 23:37:05 INFO  TC002_LoginTest:19 - ***********Starting TC002_LoginTest*************
+2025-06-11 23:37:07 INFO  TC002_LoginTest:45 - ***********Finished TC002_LoginTest*************
+2025-06-11 23:37:38 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\master.xml
+
+2025-06-11 23:37:44 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-11 23:37:45 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-06-11 23:37:46 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2025-06-11 23:37:46 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...
+2025-06-11 23:37:47 INFO  TC001_AccountRegistrationTest:45 - Validating expected message..
+2025-06-11 23:37:47 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2025-06-11 23:37:47 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-11 23:37:53 INFO  TC002_LoginTest:19 - ***********Starting TC002_LoginTest*************
+2025-06-11 23:37:54 INFO  TC002_LoginTest:45 - ***********Finished TC002_LoginTest*************
+2025-06-11 23:38:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\master.xml
+
+2025-06-11 23:38:54 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-11 23:38:54 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-06-11 23:38:55 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2025-06-11 23:38:55 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...
+2025-06-11 23:38:57 INFO  TC001_AccountRegistrationTest:45 - Validating expected message..
+2025-06-11 23:38:57 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2025-06-11 23:38:57 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-11 23:39:02 INFO  TC002_LoginTest:19 - ***********Starting TC002_LoginTest*************
+2025-06-11 23:39:04 INFO  TC002_LoginTest:45 - ***********Finished TC002_LoginTest*************
+2025-06-11 23:40:12 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\crossBrowserTesting.xml
+
+2025-06-11 23:40:13 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-11 23:40:13 ERROR TC001_AccountRegistrationTest:54 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-06-11 23:40:13 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-11 23:40:24 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-11 23:40:24 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-06-11 23:40:25 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2025-06-11 23:40:25 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...
+2025-06-11 23:40:27 INFO  TC001_AccountRegistrationTest:45 - Validating expected message..
+2025-06-11 23:40:27 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2025-06-11 23:40:27 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-11 23:40:31 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-11 23:40:31 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-06-11 23:40:32 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2025-06-11 23:40:32 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...
+2025-06-11 23:40:34 INFO  TC001_AccountRegistrationTest:45 - Validating expected message..
+2025-06-11 23:40:34 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2025-06-11 23:40:34 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-11 23:42:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\crossBrowserTesting.xml
+
+2025-06-11 23:42:17 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-11 23:42:18 ERROR TC001_AccountRegistrationTest:54 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-06-11 23:42:18 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-11 23:42:23 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-11 23:42:26 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-11 23:42:26 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-06-11 23:42:27 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2025-06-11 23:42:27 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...
+2025-06-11 23:42:28 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-06-11 23:42:29 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2025-06-11 23:42:29 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...
+2025-06-11 23:42:32 INFO  TC001_AccountRegistrationTest:45 - Validating expected message..
+2025-06-11 23:42:42 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-11 23:42:43 INFO  TC001_AccountRegistrationTest:45 - Validating expected message..
+2025-06-11 23:42:43 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-11 23:43:47 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\master.xml
+
+2025-06-11 23:43:54 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-11 23:43:54 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-06-11 23:43:55 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2025-06-11 23:43:55 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...
+2025-06-11 23:43:57 INFO  TC001_AccountRegistrationTest:45 - Validating expected message..
+2025-06-11 23:43:58 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2025-06-11 23:43:58 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-11 23:44:04 INFO  TC002_LoginTest:19 - ***********Starting TC002_LoginTest*************
+2025-06-11 23:44:07 INFO  TC002_LoginTest:45 - ***********Finished TC002_LoginTest*************
+2025-06-11 23:45:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\crossBrowserTesting.xml
+
+2025-06-11 23:45:24 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-11 23:45:24 ERROR TC001_AccountRegistrationTest:54 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
+2025-06-11 23:45:24 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-11 23:45:28 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-11 23:45:29 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-11 23:45:29 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-06-11 23:45:29 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-06-11 23:45:39 ERROR TC001_AccountRegistrationTest:54 - Test failed: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [0ed2aa9a7aeecbe06b9cf9273974966e, clickElement {id=f.99848A96E0D1A09F231203DBF730993F.d.1B8884F364F1B098DB1FD1770914C124.e.65}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 137.0.3296.68, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53426}, msedge: {msedgedriverVersion: 137.0.3296.68 (f3affdcf267b..., userDataDir: C:\Users\amit1\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.152.145:4444/s..., se:cdpVersion: 137.0.3296.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (0ed2aa9a7aeecbe06b9cf9273974966e)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 0ed2aa9a7aeecbe06b9cf9273974966e
+2025-06-11 23:45:39 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-11 23:45:49 ERROR TC001_AccountRegistrationTest:54 - Test failed: element not interactable
+  (Session info: MicrosoftEdge=137.0.3296.68)
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '23'
+Driver info: org.openqa.selenium.remote.RemoteWebDriver
+Command: [0ed2aa9a7aeecbe06b9cf9273974966e, clickElement {id=f.99848A96E0D1A09F231203DBF730993F.d.1B8884F364F1B098DB1FD1770914C124.e.65}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 137.0.3296.68, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:53426}, msedge: {msedgedriverVersion: 137.0.3296.68 (f3affdcf267b..., userDataDir: C:\Users\amit1\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: Windows 11, proxy: Proxy(), se:bidiEnabled: false, se:cdp: ws://192.168.152.145:4444/s..., se:cdpVersion: 137.0.3296.68, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[RemoteWebDriver: MicrosoftEdge on Windows 11 (0ed2aa9a7aeecbe06b9cf9273974966e)] -> xpath: //a[normalize-space()='Register']]
+Session ID: 0ed2aa9a7aeecbe06b9cf9273974966e
+2025-06-11 23:45:49 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-11 23:48:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\grouping.xml
+
+2025-06-11 23:48:56 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-11 23:48:56 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-06-11 23:48:57 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2025-06-11 23:48:57 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...
+2025-06-11 23:48:59 INFO  TC001_AccountRegistrationTest:45 - Validating expected message..
+2025-06-11 23:48:59 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2025-06-11 23:48:59 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-11 23:49:04 INFO  TC002_LoginTest:19 - ***********Starting TC002_LoginTest*************
+2025-06-11 23:49:05 INFO  TC002_LoginTest:45 - ***********Finished TC002_LoginTest*************

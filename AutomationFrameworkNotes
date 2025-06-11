@@ -517,6 +517,18 @@ extent.setSystemInfo("Groups", includedGroups.toString());
 test-output→testng-failed.xml
 
 
+Day-53
+=========
+Hybrid Framework | Run Tests on selenium Grid
+========================================================================================================================
+
+10) Run Tests on Selenium Grid (Standalone & Distributed Network)
+--------------------------------------------------------------------------
+
+Pre-requisite: Grid Standalone/Hub & Node setup (Refer the Grid Setup document)
+10.1: Add execution_env=local/remote in config.properties file under resources folder.
+10.2: Update setup() method in the BaseClass (capture execution environment from config.properties file then add required capabilities of OS & Browser in conditions).
+10.3: Run the tests from testing.xml
 
 
 

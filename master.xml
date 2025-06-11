@@ -4,8 +4,9 @@
     <listeners>
         <listener class-name="utilities.ExtentReportManager"></listener>
     </listeners>
+
     <test name="Test" thread-count="5">
-        <parameter name="browser" value="firefox"></parameter>
+        <parameter name="browser" value="edge"></parameter>
         <parameter name="os" value="Windows"></parameter>
         <classes>
             <class name="testCases.TC001_AccountRegistrationTest"/>
