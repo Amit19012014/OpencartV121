@@ -523,12 +523,75 @@ Hybrid Framework | Run Tests on selenium Grid
 ========================================================================================================================
 
 10) Run Tests on Selenium Grid (Standalone & Distributed Network)
---------------------------------------------------------------------------
+-----------------------------------------------------------------
 
 Pre-requisite: Grid Standalone/Hub & Node setup (Refer the Grid Setup document)
 10.1: Add execution_env=local/remote in config.properties file under resources folder.
 10.2: Update setup() method in the BaseClass (capture execution environment from config.properties file then add required capabilities of OS & Browser in conditions).
-10.3: Run the tests from testing.xml
+10.3: Run the tests from testing.xml.
+
+
+
+Day-53
+=========
+Hybrid Framework | Docker Integration with SeleniumGrid
+========================================================================================================================
+
+11) Run Tests on Docker with Selenium Grid Environment.
+--------------------------------------------------------
+Refer the DockerSetup Document.
+
+Containerization
+
+
+Dockerhub ( repository) . Which contains multiple images. and by the image we create the container.
+
+Dockerhub ( repository) -> multiple images --> Choose one image --> container.
+
+
+we can run hub also on container. and in other container we can run different nodes.
+
+Container 1 - Hub node
+Container 2 - node1 (Windows)
+Container 3 - node2 (Mac)
+Container 4 - node3 (Linux)
+
+
+Docker commands :
+------------------
+
+images command:
+----------------
+
+docker images             - show the images
+docker pull(image name)   - pull the image and maintain in docker
+docker rmi (imageID)      - Remove the images.
+
+container commands:
+---------------------
+
+docker ps                       - it will show what are all  container are running currently.
+docker run (image name)         - it will create the container.
+                                  if the image is not present then it will search the image and download the image then it will create the container of that image.
+                                  Like that it will do two tasks.
+docker start (image name)       - it will start the container
+docker stop (image name)        - it will stop the container
+docker rm <container id/name>   - it will remove the container
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
