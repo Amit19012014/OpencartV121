@@ -569,14 +569,45 @@ docker rmi (imageID)      - Remove the images.
 
 container commands:
 ---------------------
+docker run -it ubuntu
+docker ps                         - it will show what are all  container are running currently.
+docker run <image name>           - it will create the container.
+                                    if the image is not present then it will search the image and download the image then it will create the container of that image.
+                                    Like that it will do two tasks.
+docker start <container id/name>  - it will start the container
+docker stop <container id/name>   - it will stop the container
+docker rm <container id/name>     - it will remove the container
 
-docker ps                       - it will show what are all  container are running currently.
-docker run (image name)         - it will create the container.
-                                  if the image is not present then it will search the image and download the image then it will create the container of that image.
-                                  Like that it will do two tasks.
-docker start (image name)       - it will start the container
-docker stop (image name)        - it will stop the container
-docker rm <container id/name>   - it will remove the container
+System related commands :
+-------------------------
+docker states
+
+
+docker system df - it will show all the details like Images,Containers,Local Volumes,Build Cache
+------------------
+TYPE            TOTAL     ACTIVE    SIZE      RECLAIMABLE
+Images          1         0         87.57MB   87.57MB (100%)
+Containers      0         0         0B        0B
+Local Volumes   0         0         0B        0B
+Build Cache     0         0         0B        0B
+
+docker system prune - f - it will forcefully remove all the container and stop.
+
+
+
+3 container
+-------------
+1)hub
+2)linux-firefox
+3)linux-chrome
+4)linux-edge
+
+
+docker network create grid
+docker run -d -p 4442-4444:4442-4444 --net grid --name selenium-hub selenium/hub
+docker run -d --net grid -e SE_EVENT_BUS_HOST=selenium-hub -e SE_EVENT_BUS_PUBLISH_PORT=4442 -e SE_EVENT_BUS_SUBSCRIBE_PORT=4443 selenium/node-chrome
+docker run -d --net grid -e SE_EVENT_BUS_HOST=selenium-hub -e SE_EVENT_BUS_PUBLISH_PORT=4442 -e SE_EVENT_BUS_SUBSCRIBE_PORT=4443 selenium/node-firefox
+docker run -d --net grid -e SE_EVENT_BUS_HOST=selenium-hub -e SE_EVENT_BUS_PUBLISH_PORT=4442 -e SE_EVENT_BUS_SUBSCRIBE_PORT=4443 selenium/node-edge
 
 
 
