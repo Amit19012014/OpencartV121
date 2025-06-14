@@ -1,18 +1,24 @@
-2025-06-13 00:30:07 INFO  Utils:112 - [TestNG] Running:
+2025-06-14 14:42:53 INFO  Utils:112 - [TestNG] Running:
   C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\master.xml
 
-2025-06-13 00:30:07 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
-2025-06-13 00:30:07 ERROR TC001_AccountRegistrationTest:54 - Test failed: Cannot invoke "org.openqa.selenium.SearchContext.findElement(org.openqa.selenium.By)" because "this.searchContext" is null
-2025-06-13 00:30:07 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-13 00:31:11 INFO  Utils:112 - [TestNG] Running:
+2025-06-14 14:43:12 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-14 14:43:13 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-06-14 14:43:14 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2025-06-14 14:43:14 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...
+2025-06-14 14:43:18 INFO  TC001_AccountRegistrationTest:45 - Validating expected message..
+2025-06-14 14:43:19 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2025-06-14 14:43:19 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-14 14:43:25 INFO  TC002_LoginTest:19 - ***********Starting TC002_LoginTest*************
+2025-06-14 14:43:30 INFO  TC002_LoginTest:45 - ***********Finished TC002_LoginTest*************
+2025-06-14 14:53:56 INFO  Utils:112 - [TestNG] Running:
   C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\master.xml
 
-2025-06-13 00:31:24 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
-2025-06-13 00:31:25 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
-2025-06-13 00:31:26 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. 
-2025-06-13 00:31:26 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...
-2025-06-13 00:31:29 INFO  TC001_AccountRegistrationTest:45 - Validating expected message..
-2025-06-13 00:31:29 INFO  TC001_AccountRegistrationTest:50 - Test passed
-2025-06-13 00:31:29 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
-2025-06-13 00:31:36 INFO  TC002_LoginTest:19 - ***********Starting TC002_LoginTest*************
-2025-06-13 00:31:43 INFO  TC002_LoginTest:45 - ***********Finished TC002_LoginTest*************
+2025-06-14 14:54:09 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-14 14:54:10 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-06-14 14:54:11 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2025-06-14 14:54:11 INFO  TC001_AccountRegistrationTest:31 - Providing customer details...
+2025-06-14 14:54:14 INFO  TC001_AccountRegistrationTest:45 - Validating expected message..
+2025-06-14 14:54:14 INFO  TC001_AccountRegistrationTest:50 - Test passed
+2025-06-14 14:54:14 INFO  TC001_AccountRegistrationTest:59 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-14 14:54:19 INFO  TC002_LoginTest:19 - ***********Starting TC002_LoginTest*************
+2025-06-14 14:54:22 INFO  TC002_LoginTest:45 - ***********Finished TC002_LoginTest*************

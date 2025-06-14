@@ -51,7 +51,9 @@ public class BaseClass {
                 capabilities.setPlatform(Platform.WIN11);
             } else if (os.equalsIgnoreCase("Linux")) {
                 capabilities.setPlatform(Platform.LINUX);
-            } else {
+            } else if (os.equalsIgnoreCase("Mac")) {
+                capabilities.setPlatform(Platform.MAC);
+            }else {
                 System.out.println("No matching os");
                 return;
             }
