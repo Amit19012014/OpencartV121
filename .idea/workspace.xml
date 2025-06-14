@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d1b570d-5ccf-4d4c-99a4-7e10503a799a" name="Changes" comment="13-June_2025">
-      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/automation-06-11-2025-2.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.13.00.05.34.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.13.00.06.44.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.13.00.09.03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.13.00.14.19.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.13.00.15.58.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.13.00.16.39.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.13.00.18.01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.13.00.21.22.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.13.00.21.55.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.13.00.22.08.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.13.00.30.07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.13.00.31.11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.13.00.38.49.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.13.00.38.51.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Topic22_HybridAutomationFrameworkProjectPOMSession1/DockerSetup.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/MasterSuite/Linux-Chrome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/MasterSuite/Linux-Chrome.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/MasterSuite/Linux-Firefox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/MasterSuite/Linux-Firefox.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grid-docker.xml" beforeDir="false" afterPath="$PROJECT_DIR$/grid-docker.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testBase/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/MasterSuite/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/MasterSuite/Test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/MasterSuite/Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/MasterSuite/Test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/MasterSuite/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/MasterSuite/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC001_AccountRegistrationTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC001_AccountRegistrationTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC002_LoginTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testCases.TC002_LoginTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-failed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2d1b570d-5ccf-4d4c-99a4-7e10503a799a" name="Changes" comment="13-June_2025" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -334,8 +299,18 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="7fbbc911-da63-4813-91d0-94852548d8f4" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
+        <entry key="7fbbc911-da63-4813-91d0-94852548d8f4">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
