@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d1b570d-5ccf-4d4c-99a4-7e10503a799a" name="Changes" comment="13-June_2025" />
+    <list default="true" id="2d1b570d-5ccf-4d4c-99a4-7e10503a799a" name="Changes" comment="14-June_2025">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationFrameworkNotes" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationFrameworkNotes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/TC001_AccountRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/TC001_AccountRegistrationTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,30 +47,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;TestNG.C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/crossBrowserTesting.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/grid-docker.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/grouping.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/master.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/test-output/testng-failed.xml.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TC001_AccountRegistrationTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.TC003_LoginDDT.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/crossBrowserTesting.xml.executor": "Run",
+    "TestNG.C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/grid-docker.xml.executor": "Run",
+    "TestNG.C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/grouping.xml.executor": "Run",
+    "TestNG.C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/master.xml.executor": "Run",
+    "TestNG.C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121/test-output/testng-failed.xml.executor": "Run",
+    "TestNG.TC001_AccountRegistrationTest.executor": "Run",
+    "TestNG.TC003_LoginDDT.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/amit1/OneDrive/Desktop/Java/OpencartV121",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121" />
@@ -295,7 +299,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749755000329</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="14-June_2025">
+      <option name="closed" value="true" />
+      <created>1749923486444</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1749923486444</updated>
+    </task>
+    <task id="LOCAL-00011" summary="14-June_2025">
+      <option name="closed" value="true" />
+      <created>1749923678154</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1749923678155</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,6 +346,7 @@
     <MESSAGE value="07-June_2025" />
     <MESSAGE value="08-June_2025" />
     <MESSAGE value="13-June_2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="13-June_2025" />
+    <MESSAGE value="14-June_2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="14-June_2025" />
   </component>
 </project>

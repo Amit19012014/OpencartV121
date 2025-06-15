@@ -650,11 +650,6 @@ In the terminal:
 echo $MAVEN_HOME
 mvn -version
 
-
-----------------------------------------
-Git & GitHub
-----------------------------------------
-
 Project location:
 -------------------
 C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121
@@ -662,14 +657,17 @@ C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121
 cd C:\Automation\myworkspaces\seleniumwebdriver\OpencartV121
 mvn test
 
+
+----------------------------------------
+Git & GitHub
+----------------------------------------
+
 Pre-requisites
 -------------------
 1) Git installation
 2) create an account with GitHub & create remote repository then capture url
 	Account creation:  https://github.com/signup?source=login
 	repository url:  https://github.com/pavanoltraining/OpencartV121.git
-
-
 
 
 Git & GitHub workflow
@@ -718,12 +716,15 @@ Pull the files from remote repository
 git pull "https://github.com/pavanoltraining/OpencartV121.git"
 
 
-
 clone new repository to local system
 -------------------------
 git clone "https://github.com/pavanoltraining/testrepo.git"
 
 
+Day-56
+=========
+Hybrid Framework | Jenkins CI Setup | (Final Session)
+========================================================================================================================
 
 
 

@@ -26,6 +26,8 @@ public class TC001_AccountRegistrationTest extends BaseClass {
             hp.clickRegister();
             logger.info("Clicked on Register Link.. ");
 
+            Thread.sleep(5000);
+
             AccountRegistrationPage regpage=new AccountRegistrationPage(driver);
 
             logger.info("Providing customer details...");
