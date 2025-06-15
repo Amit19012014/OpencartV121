@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d1b570d-5ccf-4d4c-99a4-7e10503a799a" name="Changes" comment="14-June_2025">
+    <list default="true" id="2d1b570d-5ccf-4d4c-99a4-7e10503a799a" name="Changes" comment="15-June_2025">
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.15.22.48.40.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.15.22.54.16.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AutomationFrameworkNotes" beforeDir="false" afterPath="$PROJECT_DIR$/AutomationFrameworkNotes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testCases/TC001_AccountRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testCases/TC001_AccountRegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/master.xml" beforeDir="false" afterPath="$PROJECT_DIR$/master.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.OpencartV121 [test].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -315,7 +317,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749923678155</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="15-June_2025">
+      <option name="closed" value="true" />
+      <created>1750007825393</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1750007825393</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -347,6 +357,7 @@
     <MESSAGE value="08-June_2025" />
     <MESSAGE value="13-June_2025" />
     <MESSAGE value="14-June_2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="14-June_2025" />
+    <MESSAGE value="15-June_2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="15-June_2025" />
   </component>
 </project>
