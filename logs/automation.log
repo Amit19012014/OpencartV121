@@ -16,3 +16,47 @@
 2025-06-15 23:03:12 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
 2025-06-15 23:03:18 INFO  TC002_LoginTest:19 - ***********Starting TC002_LoginTest*************
 2025-06-15 23:03:19 INFO  TC002_LoginTest:45 - ***********Finished TC002_LoginTest*************
+2025-06-15 23:10:34 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-15 23:10:34 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-06-15 23:10:35 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2025-06-15 23:10:40 INFO  TC001_AccountRegistrationTest:33 - Providing customer details...
+2025-06-15 23:10:42 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-06-15 23:10:42 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-06-15 23:10:42 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-15 23:10:47 INFO  TC002_LoginTest:19 - ***********Starting TC002_LoginTest*************
+2025-06-15 23:10:49 INFO  TC002_LoginTest:45 - ***********Finished TC002_LoginTest*************
+2025-06-15 23:11:33 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-15 23:11:34 ERROR TC001_AccountRegistrationTest:56 - Test failed: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=137.0.3296.83)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.33.0', revision: '2c6aaad03a'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.2'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [91e67b7303cd4174ce8e6effb2707b6f, clickElement {id=f.1AB461B22D2C9AD4228930E01D4569E2.d.41372DCA8883FE40D429E239BFCAFFE3.e.79}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 137.0.3296.83, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:62161}, msedge: {msedgedriverVersion: 137.0.3296.83 (24e00e9cccf2..., userDataDir: C:\Users\amit1\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62161/devtoo..., se:cdpVersion: 137.0.3296.83, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[EdgeDriver: MicrosoftEdge on windows (91e67b7303cd4174ce8e6effb2707b6f)] -> xpath: //span[normalize-space()='My Account']]
+Session ID: 91e67b7303cd4174ce8e6effb2707b6f
+2025-06-15 23:11:34 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-15 23:11:40 INFO  TC002_LoginTest:19 - ***********Starting TC002_LoginTest*************
+2025-06-15 23:11:43 INFO  TC002_LoginTest:45 - ***********Finished TC002_LoginTest*************
+2025-06-15 23:13:59 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-15 23:13:59 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-06-15 23:14:01 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2025-06-15 23:14:06 INFO  TC001_AccountRegistrationTest:33 - Providing customer details...
+2025-06-15 23:14:08 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-06-15 23:14:08 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-06-15 23:14:08 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-15 23:14:20 INFO  TC002_LoginTest:19 - ***********Starting TC002_LoginTest*************
+2025-06-15 23:14:22 INFO  TC002_LoginTest:45 - ***********Finished TC002_LoginTest*************
+2025-06-15 23:20:24 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\amit1\OneDrive\Desktop\Java\OpencartV121\master.xml
+
+2025-06-15 23:23:26 INFO  TC001_AccountRegistrationTest:18 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-06-15 23:23:26 INFO  TC001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-06-15 23:23:28 INFO  TC001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2025-06-15 23:23:33 INFO  TC001_AccountRegistrationTest:33 - Providing customer details...
+2025-06-15 23:23:38 INFO  TC001_AccountRegistrationTest:47 - Validating expected message..
+2025-06-15 23:23:38 INFO  TC001_AccountRegistrationTest:52 - Test passed
+2025-06-15 23:23:38 INFO  TC001_AccountRegistrationTest:61 - ***** Finished TC001_AccountRegistrationTest *****
+2025-06-15 23:23:48 INFO  TC002_LoginTest:19 - ***********Starting TC002_LoginTest*************
+2025-06-15 23:23:51 INFO  TC002_LoginTest:45 - ***********Finished TC002_LoginTest*************

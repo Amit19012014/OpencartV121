@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d1b570d-5ccf-4d4c-99a4-7e10503a799a" name="Changes" comment="15-June_2025">
-      <change afterPath="$PROJECT_DIR$/logs/automation-06-14-2025-1.log.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.15.22.58.02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.15.23.02.55.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.15.23.10.28.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.15.23.11.27.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/Test-Report-2025.06.15.23.13.42.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/verify_account_registration_20250615111134.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.bat" beforeDir="false" afterPath="$PROJECT_DIR$/run.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -334,7 +337,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750008554733</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="15-June_2025">
+      <option name="closed" value="true" />
+      <created>1750009196642</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1750009196643</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
