@@ -531,6 +531,13 @@ Pre-requisite: Grid Standalone/Hub & Node setup (Refer the Grid Setup document)
 10.3: Run the tests from testing.xml.
 
 
+To start the hub
+java -jar selenium selenium-server-4.33.0.jar hub
+
+To connect the node
+java -jar selenium selenium-server-4.33.0.jar node --hub http://localhost:4444
+
+
 
 Day-54
 =========

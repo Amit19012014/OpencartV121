@@ -23,7 +23,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
 
-import org.apache.logging.log4j.LogManager;//log4j
+import org.apache.logging.log4j.LogManager; //log4j
 import org.apache.logging.log4j.Logger;   //log4j
 
 public class BaseClass {
@@ -48,7 +48,7 @@ public class BaseClass {
 
             //os
             if (os.equalsIgnoreCase("windows")) {
-                capabilities.setPlatform(Platform.WIN11);
+                capabilities.setPlatform(Platform.WIN10);
             } else if (os.equalsIgnoreCase("Linux")) {
                 capabilities.setPlatform(Platform.LINUX);
             } else if (os.equalsIgnoreCase("Mac")) {
